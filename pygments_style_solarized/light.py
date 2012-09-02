@@ -59,7 +59,7 @@ class LightStyle(Style):
         Name.Namespace:         '#b58900',             # yellow ; class: 'nn'
         Name.Other:             '#657b83',             # base00 ; class: 'nx'
         Name.Tag:               '#859900',             # green  ; class: 'nt'
-        Name.Variable:          '#268bd2',             # blue   ; class: 'nv'
+        Name.Variable:          '#cd4b16',             # orange ; class: 'nv'
         Name.Variable.Class:    '#268bd2',             # blue   ; class: 'vc'
         Name.Variable.Global:   '#268bd2',             # blue   ; class: 'vg'
         Name.Variable.Instance: '#268bd2',             # blue   ; class: 'vi'

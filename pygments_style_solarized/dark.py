@@ -16,7 +16,7 @@ from pygments.token import Keyword, Name, Comment, String, Error, Text, \
 
 class DarkStyle(Style):
     """
-    The Solarized Light style, inspired by Schoonover.
+    The Solarized Dark style, inspired by Schoonover.
     """
     background_color = '#002b36'
     default_style = ""

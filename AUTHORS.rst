@@ -7,5 +7,6 @@ AUTHORS
 Report bugs, typos and pull requests
 ------------------------------------
 * @jurriaan
+* @nicolalamacchia
 
 Thanks to your contribution!

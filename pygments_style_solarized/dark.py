@@ -59,7 +59,7 @@ class DarkStyle(Style):
         Name.Namespace:         '#b58900',             # yellow ; class: 'nn'
         Name.Other:             '#839496',             # base0  ; class: 'nx'
         Name.Tag:               '#859900',             # green  ; class: 'nt'
-        Name.Variable:          '#cd4b16',             # orange ; class: 'nv'
+        Name.Variable:          '#cb4b16',             # orange ; class: 'nv'
         Name.Variable.Class:    '#268bd2',             # blue   ; class: 'vc'
         Name.Variable.Global:   '#268bd2',             # blue   ; class: 'vg'
         Name.Variable.Instance: '#268bd2',             # blue   ; class: 'vi'

@@ -37,8 +37,8 @@ setup(
     install_requires=['pygments >= 1.5'],
     entry_points="""
         [pygments.styles]
-        solarizedlight=pygments_style_solarized.light:LightStyle
-        solarizeddark=pygments_style_solarized.dark:DarkStyle
+        solarized-light=pygments_style_solarized.light:LightStyle
+        solarized-dark=pygments_style_solarized.dark:DarkStyle
     """,
     zip_safe=False,
 )

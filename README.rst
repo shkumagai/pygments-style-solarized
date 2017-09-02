@@ -30,5 +30,5 @@ Export the style as CSS
 -----------------------
 ::
 
-   pygmentize -S solarizedlight -f html > solarizedlight.css
+   pygmentize -S solarized-light -f html > solarizedlight.css
 

@@ -1,9 +1,6 @@
-bin/
-develop-eggs/
-dist/
-eggs/
-parts/
-.installed.cfg
-_build/
-*.egg-info/
+*~
 *.pyc
+*.egg-info/
+*build/
+.venv
+dist/

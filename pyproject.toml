@@ -45,7 +45,7 @@ pygments = ">=1.5"
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
 isort = "^5.8.0"
-tox = "^3.23.0"
+tox = "^3.23.1"
 
 [tool.isort]
 profile = "black"

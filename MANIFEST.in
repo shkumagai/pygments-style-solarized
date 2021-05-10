@@ -1,4 +1,0 @@
-include buildout.cfg
-include bootstrap.py
-include MANIFEST.in
-include *.rst

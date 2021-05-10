@@ -13,7 +13,7 @@ Manual
 
    $ git clone git://github.com/shkumagai/pygments-style-solarized
    $ cd pygments-style-solarized
-   $ (sudo) python setup.py install
+   $ (sudo) pip install .
 
 Usage Sample
 ------------

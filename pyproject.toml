@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pygments-style-solarized"
-version = "0.1.1"
+version = "0.2.0"
 description = "The Solarized theme for Pygments."
 authors = ["shkumagai <take.this.2.your.grave@gmail.com>"]
 homepage = "https://github.com/shkumagai/pygments-style-solarized"
@@ -25,7 +25,7 @@ classifiers = [
     "Topic :: Text Processing :: Markup",
 ]
 packages = [
-    { include = "pygments_style_solarized", from = "src" },
+    { include = "pygments_style_solarized.py", from = "src" },
 ]
 readme = "README.rst"
 include = [
@@ -46,6 +46,7 @@ pygments = ">=1.5"
 black = "^20.8b1"
 isort = "^5.8.0"
 tox = "^3.23.1"
+pytest = "^6.2.4"
 
 [tool.isort]
 profile = "black"

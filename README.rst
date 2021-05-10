@@ -19,10 +19,10 @@ Usage Sample
 ------------
 ::
 
-   >>> from pygments.formatter import HtmlFormatter
-   >>> HtmlFormatter(style='solarizedlight').style
+   >>> from pygments.formatter import Formatter
+   >>> Formatter(style='solarizedlight').style
    <class 'pygments_style_solarized.light.LightStyle'>
-   >>> HtmlFormatter(style='solarizeddark').style
+   >>> Formatter(style='solarizeddark').style
    <class 'pygments_style_solarized.light.DarkStyle'>
 
 
